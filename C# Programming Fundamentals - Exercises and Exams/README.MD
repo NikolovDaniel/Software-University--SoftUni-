@@ -26,7 +26,14 @@
 20. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Regular%20Experssions%20-%20More%20Exercises" > Regular Expressions - More Exercises </a>
 
 ## Exams
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%201st%20Exercise" >First Tasks</a> 
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%202nd%20Exercises" >Second Tasks</a> 
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%203rd%20Exercises" >Third Tasks</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Mid%20Exams/Mid%20Exam%20August%206%202019" >Mid Exam August 6 2019</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Mid%20Exams/Mid%20Exam%20August%2010%202020" >Mid Exam August 10 2020</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Mid%20Exams/Mid%20Exam%20October%2013%202020" >Mid Exam October 13 2020</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Mid%20Exams/Mid%20Exam%20September%209%202020" >Mid Exam September 9 2020</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Final%20Exams/Final%20Exam%20(1)"> Final Exam (1) </a>
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Final%20Exams/Final%20Exam%20(2)"> Final Exam (2) </a>
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Final%20Exams/Final%20Exam%20(3)"> Final Exam (3) </a>
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Final%20Exams/Final%20Exam%20(4)"> Final Exam (4) </a>
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exams/Final%20Exams/Final%20Exam%20(5)"> Final Exam (5) </a>
+
 
