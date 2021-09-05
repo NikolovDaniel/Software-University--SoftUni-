@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\ref\PokeMon.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\bin\Debug\net5.0\PokeMon.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\ref\PokeMon.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PokeMon\obj\Debug\net5.0\PokeMon.genruntimeconfig.cache

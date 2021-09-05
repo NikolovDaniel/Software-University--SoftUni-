@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\ref\Calculations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\bin\Debug\net5.0\Calculations.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\ref\Calculations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Calculations\obj\Debug\net5.0\Calculations.genruntimeconfig.cache

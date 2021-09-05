@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\ref\GreaterOfTwoValues.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\bin\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\ref\GreaterOfTwoValues.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GreaterOfTwoValues\obj\Debug\net5.0\GreaterOfTwoValues.genruntimeconfig.cache

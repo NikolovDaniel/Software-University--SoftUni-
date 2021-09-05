@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\bin\Debug\net5.0\SumOfChars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\ref\SumOfChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumOfChars\obj\Debug\net5.0\SumOfChars.genruntimeconfig.cache

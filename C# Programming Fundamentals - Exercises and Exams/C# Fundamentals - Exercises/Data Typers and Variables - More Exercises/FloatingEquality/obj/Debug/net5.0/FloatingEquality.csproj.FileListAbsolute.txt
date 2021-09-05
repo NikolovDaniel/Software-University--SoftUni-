@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\bin\Debug\net5.0\FloatingEquality.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FloatingEquality\obj\Debug\net5.0\FloatingEquality.genruntimeconfig.cache

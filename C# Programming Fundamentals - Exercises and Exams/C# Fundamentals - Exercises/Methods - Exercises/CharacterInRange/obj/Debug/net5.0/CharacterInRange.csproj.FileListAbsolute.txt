@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\ref\CharacterInRange.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\bin\Debug\net5.0\CharacterInRange.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\ref\CharacterInRange.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CharacterInRange\obj\Debug\net5.0\CharacterInRange.genruntimeconfig.cache

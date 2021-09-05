@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\ref\SignOfIntegerNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\bin\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\ref\SignOfIntegerNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SignOfIntegerNumbers\obj\Debug\net5.0\SignOfIntegerNumbers.genruntimeconfig.cache

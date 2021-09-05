@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\ref\SumDigits.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\bin\Debug\net5.0\SumDigits.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\ref\SumDigits.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\SumDigits\obj\Debug\net5.0\SumDigits.genruntimeconfig.cache

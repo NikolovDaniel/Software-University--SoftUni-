@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\ref\TriplesOfLatinLetters.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\bin\Debug\net5.0\TriplesOfLatinLetters.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\ref\TriplesOfLatinLetters.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.genruntimeconfig.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TriplesOfLatinLetters\obj\Debug\net5.0\TriplesOfLatinLetters.csprojAssemblyReference.cache

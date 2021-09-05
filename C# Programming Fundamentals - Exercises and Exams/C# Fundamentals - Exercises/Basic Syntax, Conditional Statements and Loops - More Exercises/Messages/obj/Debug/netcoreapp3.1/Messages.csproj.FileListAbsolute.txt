@@ -1,0 +1,13 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Messages\obj\Debug\netcoreapp3.1\Messages.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ref\ContactNames.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\bin\Debug\net5.0\ContactNames.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ref\ContactNames.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ContactNames\obj\Debug\net5.0\ContactNames.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\ref\Furniture.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\bin\Debug\net5.0\Furniture.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\ref\Furniture.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Furniture\obj\Debug\net5.0\Furniture.genruntimeconfig.cache

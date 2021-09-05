@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\ref\CenturiesToMinutes.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\bin\Debug\net5.0\CenturiesToMinutes.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\ref\CenturiesToMinutes.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CenturiesToMinutes\obj\Debug\net5.0\CenturiesToMinutes.genruntimeconfig.cache

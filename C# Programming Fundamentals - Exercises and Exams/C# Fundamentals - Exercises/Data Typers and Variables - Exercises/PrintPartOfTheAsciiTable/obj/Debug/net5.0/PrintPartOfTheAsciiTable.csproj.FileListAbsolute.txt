@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\ref\PrintPartOfTheAsciiTable.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\bin\Debug\net5.0\PrintPartOfTheAsciiTable.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\ref\PrintPartOfTheAsciiTable.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.genruntimeconfig.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PrintPartOfTheAsciiTable\obj\Debug\net5.0\PrintPartOfTheAsciiTable.csprojAssemblyReference.cache

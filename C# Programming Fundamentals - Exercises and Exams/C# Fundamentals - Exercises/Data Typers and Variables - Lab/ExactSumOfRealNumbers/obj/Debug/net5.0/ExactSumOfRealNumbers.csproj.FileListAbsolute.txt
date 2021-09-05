@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ref\ExactSumOfRealNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\bin\Debug\net5.0\ExactSumOfRealNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ref\ExactSumOfRealNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ExactSumOfRealNumbers\obj\Debug\net5.0\ExactSumOfRealNumbers.genruntimeconfig.cache

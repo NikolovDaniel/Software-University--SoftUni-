@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\ref\RepeatString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\bin\Debug\net5.0\RepeatString.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\ref\RepeatString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RepeatString\obj\Debug\net5.0\RepeatString.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\ref\Snowballs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\bin\Debug\net5.0\Snowballs.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\ref\Snowballs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Snowballs\obj\Debug\net5.0\Snowballs.genruntimeconfig.cache

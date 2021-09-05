@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\ref\RefactorSpecialNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\bin\Debug\net5.0\RefactorSpecialNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\ref\RefactorSpecialNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RefactorSpecialNumbers\obj\Debug\net5.0\RefactorSpecialNumbers.genruntimeconfig.cache

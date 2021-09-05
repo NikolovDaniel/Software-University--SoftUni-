@@ -1,0 +1,12 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\bin\Debug\netcoreapp3.1\ThreatrePromotion.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ThreatrePromotion\obj\Debug\netcoreapp3.1\ThreatrePromotion.genruntimeconfig.cache

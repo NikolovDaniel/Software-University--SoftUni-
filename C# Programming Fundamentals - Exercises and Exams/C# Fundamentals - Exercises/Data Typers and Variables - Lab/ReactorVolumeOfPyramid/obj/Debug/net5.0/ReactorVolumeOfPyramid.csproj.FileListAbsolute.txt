@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ref\ReactorVolumeOfPyramid.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\bin\Debug\net5.0\ReactorVolumeOfPyramid.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ref\ReactorVolumeOfPyramid.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReactorVolumeOfPyramid\obj\Debug\net5.0\ReactorVolumeOfPyramid.genruntimeconfig.cache

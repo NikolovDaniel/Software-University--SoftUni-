@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\bin\Debug\net5.0\BeerKegs.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\ref\BeerKegs.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BeerKegs\obj\Debug\net5.0\BeerKegs.genruntimeconfig.cache

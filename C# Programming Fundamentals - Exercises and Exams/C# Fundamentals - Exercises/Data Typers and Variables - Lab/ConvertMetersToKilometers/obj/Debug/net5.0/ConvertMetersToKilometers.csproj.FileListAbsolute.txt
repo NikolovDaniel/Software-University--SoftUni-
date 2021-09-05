@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ref\ConvertMetersToKilometers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\bin\Debug\net5.0\ConvertMetersToKilometers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ref\ConvertMetersToKilometers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ConvertMetersToKilometers\obj\Debug\net5.0\ConvertMetersToKilometers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ref\ReversedChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\bin\Debug\net5.0\ReversedChars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ref\ReversedChars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ReversedChars\obj\Debug\net5.0\ReversedChars.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\ref\TopNumber.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\bin\Debug\net5.0\TopNumber.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\ref\TopNumber.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopNumber\obj\Debug\net5.0\TopNumber.genruntimeconfig.cache

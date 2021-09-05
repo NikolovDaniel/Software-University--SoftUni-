@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\ref\MultiplicationSign.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\bin\Debug\net5.0\MultiplicationSign.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\ref\MultiplicationSign.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MultiplicationSign\obj\Debug\net5.0\MultiplicationSign.genruntimeconfig.cache

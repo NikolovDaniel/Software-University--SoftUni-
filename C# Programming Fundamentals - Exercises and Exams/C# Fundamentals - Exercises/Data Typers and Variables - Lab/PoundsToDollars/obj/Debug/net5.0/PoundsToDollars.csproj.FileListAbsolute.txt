@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\ref\PoundsToDollars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\bin\Debug\net5.0\PoundsToDollars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\ref\PoundsToDollars.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PoundsToDollars\obj\Debug\net5.0\PoundsToDollars.genruntimeconfig.cache

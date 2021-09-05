@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\ref\MergingLists.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\bin\Debug\net5.0\MergingLists.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\ref\MergingLists.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MergingLists\obj\Debug\net5.0\MergingLists.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ref\ListOperations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\bin\Debug\net5.0\ListOperations.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ref\ListOperations.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListOperations\obj\Debug\net5.0\ListOperations.genruntimeconfig.cache

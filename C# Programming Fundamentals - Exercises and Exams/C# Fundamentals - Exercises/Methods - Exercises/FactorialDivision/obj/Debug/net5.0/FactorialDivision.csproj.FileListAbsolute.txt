@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\bin\Debug\net5.0\FactorialDivision.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\ref\FactorialDivision.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\FactorialDivision\obj\Debug\net5.0\FactorialDivision.genruntimeconfig.cache

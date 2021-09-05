@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\ref\LowerOrUpper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\bin\Debug\net5.0\LowerOrUpper.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\ref\LowerOrUpper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LowerOrUpper\obj\Debug\net5.0\LowerOrUpper.genruntimeconfig.cache

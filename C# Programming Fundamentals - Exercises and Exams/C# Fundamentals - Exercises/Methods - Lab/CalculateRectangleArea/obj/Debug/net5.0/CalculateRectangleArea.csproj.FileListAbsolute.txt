@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.genruntimeconfig.cache

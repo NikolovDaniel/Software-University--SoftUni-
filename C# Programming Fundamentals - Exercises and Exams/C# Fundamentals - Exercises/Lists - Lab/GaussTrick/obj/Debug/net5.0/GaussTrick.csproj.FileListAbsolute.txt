@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\ref\GaussTrick.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\bin\Debug\net5.0\GaussTrick.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\ref\GaussTrick.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\GaussTrick\obj\Debug\net5.0\GaussTrick.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\bin\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ref\ListManipulationAdvanced.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.genruntimeconfig.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ListManipulationAdvanced\obj\Debug\net5.0\ListManipulationAdvanced.csprojAssemblyReference.cache
