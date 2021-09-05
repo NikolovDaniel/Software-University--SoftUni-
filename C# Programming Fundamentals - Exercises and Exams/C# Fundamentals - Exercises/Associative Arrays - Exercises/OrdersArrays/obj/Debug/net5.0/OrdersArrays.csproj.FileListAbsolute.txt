@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\ref\OrdersArrays.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\bin\Debug\net5.0\OrdersArrays.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.csproj.AssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\ref\OrdersArrays.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\OrdersArrays\obj\Debug\net5.0\OrdersArrays.genruntimeconfig.cache

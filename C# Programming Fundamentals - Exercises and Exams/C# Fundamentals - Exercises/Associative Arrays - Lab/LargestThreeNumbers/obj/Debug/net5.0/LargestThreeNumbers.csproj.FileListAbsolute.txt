@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\ref\LargestThreeNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\bin\Debug\net5.0\LargestThreeNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\ref\LargestThreeNumbers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\LargestThreeNumbers\obj\Debug\net5.0\LargestThreeNumbers.genruntimeconfig.cache

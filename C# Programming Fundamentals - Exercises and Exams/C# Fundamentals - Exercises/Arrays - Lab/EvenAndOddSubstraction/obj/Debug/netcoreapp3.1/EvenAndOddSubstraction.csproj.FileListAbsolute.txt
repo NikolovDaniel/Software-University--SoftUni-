@@ -1,0 +1,12 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\bin\Debug\netcoreapp3.1\EvenAndOddSubstraction.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EvenAndOddSubstraction\obj\Debug\netcoreapp3.1\EvenAndOddSubstraction.genruntimeconfig.cache

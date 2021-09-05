@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.genruntimeconfig.cache

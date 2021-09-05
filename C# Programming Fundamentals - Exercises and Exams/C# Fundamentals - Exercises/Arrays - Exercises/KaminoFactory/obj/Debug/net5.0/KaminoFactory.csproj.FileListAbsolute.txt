@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\bin\Debug\net5.0\KaminoFactory.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\ref\KaminoFactory.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\KaminoFactory\obj\Debug\net5.0\KaminoFactory.genruntimeconfig.cache

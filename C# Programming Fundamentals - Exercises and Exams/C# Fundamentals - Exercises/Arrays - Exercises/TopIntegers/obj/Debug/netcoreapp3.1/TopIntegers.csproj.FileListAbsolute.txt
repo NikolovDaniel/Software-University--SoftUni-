@@ -1,0 +1,12 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\bin\Debug\netcoreapp3.1\TopIntegers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TopIntegers\obj\Debug\netcoreapp3.1\TopIntegers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\ref\CountCharsInString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\bin\Debug\net5.0\CountCharsInString.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\ref\CountCharsInString.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\CountCharsInString\obj\Debug\net5.0\CountCharsInString.genruntimeconfig.cache
