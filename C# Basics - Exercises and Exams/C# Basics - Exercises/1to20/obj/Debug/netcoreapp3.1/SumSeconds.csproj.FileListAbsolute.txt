@@ -1,0 +1,13 @@
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.exe
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.deps.json
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.json
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.runtimeconfig.dev.json
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\bin\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.csprojAssemblyReference.cache
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.AssemblyInfo.cs
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.dll
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.pdb
+C:\Users\KOlombus\Desktop\SoftUni\MyFirstProject\1to20\obj\Debug\netcoreapp3.1\SumSeconds.genruntimeconfig.cache
