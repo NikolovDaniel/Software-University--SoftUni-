@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\ref\DestinationMapper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\bin\Debug\net5.0\DestinationMapper.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\ref\DestinationMapper.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\DestinationMapper\obj\Debug\net5.0\DestinationMapper.genruntimeconfig.cache

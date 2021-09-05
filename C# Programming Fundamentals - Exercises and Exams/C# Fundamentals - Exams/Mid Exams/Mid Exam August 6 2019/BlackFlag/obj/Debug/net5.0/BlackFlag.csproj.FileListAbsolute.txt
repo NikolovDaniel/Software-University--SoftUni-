@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\ref\BlackFlag.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\bin\Debug\net5.0\BlackFlag.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\ref\BlackFlag.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\BlackFlag\obj\Debug\net5.0\BlackFlag.genruntimeconfig.cache

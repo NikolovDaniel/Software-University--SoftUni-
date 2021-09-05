@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ref\ManOWar.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\bin\Debug\net5.0\ManOWar.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ref\ManOWar.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ManOWar\obj\Debug\net5.0\ManOWar.genruntimeconfig.cache

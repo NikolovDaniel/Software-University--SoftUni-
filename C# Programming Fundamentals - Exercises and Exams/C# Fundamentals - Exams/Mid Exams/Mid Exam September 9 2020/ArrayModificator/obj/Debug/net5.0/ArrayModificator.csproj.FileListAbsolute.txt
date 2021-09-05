@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ref\ArrayModificator.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\bin\Debug\net5.0\ArrayModificator.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ref\ArrayModificator.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\ArrayModificator\obj\Debug\net5.0\ArrayModificator.genruntimeconfig.cache

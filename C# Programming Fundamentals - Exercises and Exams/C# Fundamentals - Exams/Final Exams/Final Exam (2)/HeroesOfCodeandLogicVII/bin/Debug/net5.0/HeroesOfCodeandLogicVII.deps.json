@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HeroesOfCodeandLogicVII/1.0.0": {
+        "runtime": {
+          "HeroesOfCodeandLogicVII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeroesOfCodeandLogicVII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

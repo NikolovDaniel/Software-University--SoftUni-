@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\ref\MirrorWords.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\bin\Debug\net5.0\MirrorWords.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\ref\MirrorWords.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MirrorWords\obj\Debug\net5.0\MirrorWords.genruntimeconfig.cache

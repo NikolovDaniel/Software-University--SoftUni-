@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\ref\MemoryGame.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\bin\Debug\net5.0\MemoryGame.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\ref\MemoryGame.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\MemoryGame\obj\Debug\net5.0\MemoryGame.genruntimeconfig.cache

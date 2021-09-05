@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\ref\TreasureHunt.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\bin\Debug\net5.0\TreasureHunt.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.csprojAssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\ref\TreasureHunt.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\TreasureHunt\obj\Debug\net5.0\TreasureHunt.genruntimeconfig.cache

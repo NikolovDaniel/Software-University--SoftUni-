@@ -1,0 +1,16 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\ref\PlanetDiscovery.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\bin\Debug\net5.0\PlanetDiscovery.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.csproj.AssemblyReference.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\ref\PlanetDiscovery.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PlanetDiscovery\obj\Debug\net5.0\PlanetDiscovery.genruntimeconfig.cache

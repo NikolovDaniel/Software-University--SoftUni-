@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftuniReception/1.0.0": {
+        "runtime": {
+          "SoftuniReception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftuniReception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

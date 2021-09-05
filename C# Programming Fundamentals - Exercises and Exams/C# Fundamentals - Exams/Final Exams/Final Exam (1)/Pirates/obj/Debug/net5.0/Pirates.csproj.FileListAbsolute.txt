@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\ref\Pirates.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\bin\Debug\net5.0\Pirates.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\ref\Pirates.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Pirates\obj\Debug\net5.0\Pirates.genruntimeconfig.cache
