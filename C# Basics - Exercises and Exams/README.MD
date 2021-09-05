@@ -14,7 +14,7 @@
 7. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exercises/Nested%20Conditional%20Statements%20-%20Exercises" > Nested Conditional Statements - Exercises</a>
 
 ## Exams
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%201st%20Exercise" >First Tasks</a> 
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%202nd%20Exercises" >Second Tasks</a> 
-- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%203rd%20Exercises" >Third Tasks</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%201st%20Exercise" >First Exam Tasks</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%202nd%20Exercises" >Second Exam Tasks</a> 
+- <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%203rd%20Exercises" >Third Exam Tasks</a> 
 
