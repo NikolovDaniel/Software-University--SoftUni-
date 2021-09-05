@@ -23,7 +23,7 @@
 17. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Text%20Processing%20-%20Exercises" > Text Processing - Exercises </a> 
 18. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Regular%20Experssions%20-%20Lab" > Regular Expressions - Lab </a>
 19. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Regular%20Experssions%20-%20Exercises" > Regular Expressions - Exercises </a>
-20 .<a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Regular%20Experssions%20-%20More%20Exercises" > Regular Expressions - More Exercises </a>
+20. <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Programming%20Fundamentals%20-%20Exercises%20and%20Exams/C%23%20Fundamentals%20-%20Exercises/Regular%20Experssions%20-%20More%20Exercises" > Regular Expressions - More Exercises </a>
 
 ## Exams
 - <a href="https://github.com/kace123/Software-University-SoftUni-/tree/main/C%23%20Basics%20-%20Exercises%20and%20Exams/C%23%20Basics%20-%20Exams/C%23%20Exams%20-%201st%20Exercise" >First Tasks</a> 
