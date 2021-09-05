@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\ref\Division.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\bin\Debug\net5.0\Division.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\ref\Division.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\Division\obj\Debug\net5.0\Division.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\ref\RageExpenses.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\bin\Debug\net5.0\RageExpenses.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\ref\RageExpenses.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\RageExpenses\obj\Debug\net5.0\RageExpenses.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.exe
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.deps.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.runtimeconfig.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.runtimeconfig.dev.json
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\ref\PritnAndSum.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\bin\Debug\net5.0\PritnAndSum.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.AssemblyInfoInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.AssemblyInfo.cs
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.csproj.CoreCompileInputs.cache
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\ref\PritnAndSum.dll
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.pdb
+C:\Users\KOlombus\source\repos\FundamentalsSeptember\PritnAndSum\obj\Debug\net5.0\PritnAndSum.genruntimeconfig.cache
