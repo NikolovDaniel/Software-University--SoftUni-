@@ -70,7 +70,7 @@ namespace TheVLogger
                 int followers = int.Parse(currStats[1]);
                 int following = int.Parse(currStats[2]);
 
-                if (followers > maxFollowers)
+                if (followers == maxFollowers)
                 {
                     if (followers == maxFollowers && following < minFollowing)
                     {
@@ -78,14 +78,13 @@ namespace TheVLogger
                         minFollowing = following;
                         bestName = name;
                     }
-                    else
-                    {
-                        maxFollowers = followers;
-                        minFollowing = following;
-                        bestName = name;
-                    }
                 }
-
+                else if (followers > maxFollowers)
+                {
+                    maxFollowers = followers;
+                    minFollowing = following;
+                    bestName = name;
+                }
             }
 
             Console.WriteLine($"The V-Logger has a total of {vloggers.Count} vloggers in its logs.");
