@@ -13,4 +13,4 @@
 5. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Sets%20and%20Dictionaries%20Advanced%20-%20Lab"> Sets and Dictionaries Advanced - Lab </a>
 6. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Sets%20and%20Dictionaries%20Advanced%20-%20Exercises"> Sets and Dictionaries Advanced - Exercises </a>
 7. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Streams%2C%20Files%20and%20Directiories%20-%20Lab"> Streams, Files and Directories - Lab </a>
-
+8. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Streams%2C%20Files%20and%20Directories%20-%20Exercises"> Streams, Files and Directories - Exercises </a>
