@@ -17,3 +17,4 @@
 9. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Functional%20Programming%20-%20Lab"> Functional Programming - Lab </a>
 10. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Functional%20Programming%20-%20Exercises"> Functional Programming - Exercises </a>
 11. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Defining%20Classes%20-%20Lab"> Defining Classes - Lab </a>
+12. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Defining%20Classes%20-%20Exercises"> Defining Classes - Exercises </a>
