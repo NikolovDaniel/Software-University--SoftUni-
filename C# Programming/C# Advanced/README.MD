@@ -21,5 +21,6 @@
 13. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Generics%20-%20Lab"> Generics - Lab </a>
 14.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Generics%20-%20Exercises"> Generics - Exercises </a>
 15.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Implementing%20Linked%20List/DoublyLinkedList"> Implementing Linked List </a>
-16.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Lab"> Iterators and Comparators - Lab </a>
-17.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Exercises"> Iterators and Comparators - Exercises </a>
+16.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Implementing%20List%20and%20Stack"> Implementing List and Stack </a>
+17.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Lab"> Iterators and Comparators - Lab </a>
+18.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Exercises"> Iterators and Comparators - Exercises </a>
