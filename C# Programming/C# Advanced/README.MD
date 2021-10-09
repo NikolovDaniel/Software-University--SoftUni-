@@ -24,3 +24,6 @@
 16.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Implementing%20List%20and%20Stack"> Implementing List and Stack </a>
 17.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Lab"> Iterators and Comparators - Lab </a>
 18.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Exercises"> Iterators and Comparators - Exercises </a>
+
+## Exams
+- <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Retake%20Exam%20-%2018%20August%202021">  C# - Advanced Retake Exam - 18 August 2021 </a>
