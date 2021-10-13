@@ -28,3 +28,4 @@
 ## Exams
 - <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Retake%20Exam%20-%2018%20August%202021">  C# - Advanced Retake Exam - 18 August 2021 </a>
 - <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2026%20June%202021"> C# - Advanced Exam - 26 June 2021 </a>
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2022%20Feb%202020"> C# - Advanced Exam - 22 Feb 2020 </a>
