@@ -13,3 +13,5 @@
 6. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JavaScript%20Programming%20Basics/JS%20Basics%20-%20Exercises/Conditional%20Statements%20Advanced%20-%20Exercises"> Conditional Statements Advanced - Exercises </a>
 7. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JavaScript%20Programming%20Basics/JS%20Basics%20-%20Exercises/For%20Loop%20-%20Lab"> For Loop - Lab </a>
 8. <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JavaScript%20Programming%20Basics/JS%20Basics%20-%20Exercises/For%20Loop%20-%20Exercises"> For Loop - Exercises </a>
+9. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JavaScript%20Programming%20Basics/JS%20Basics%20-%20Exercises/While%20Loop%20-%20Lab"> While Loop - Lab </a>
+10. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JavaScript%20Programming%20Basics/JS%20Basics%20-%20Exercises/While%20Loop%20-%20Exercises"> While Loop - Exercises </a>
