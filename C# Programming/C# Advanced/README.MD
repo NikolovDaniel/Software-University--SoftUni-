@@ -26,6 +26,7 @@
 18.  <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exercises/Iterators%20and%20Comparators%20-%20Exercises"> Iterators and Comparators - Exercises </a>
 
 ## Exams
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2023%20October%202021"> C# - Advanced Exam - 23 October 2021 </a>
 - <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Retake%20Exam%20-%2018%20August%202021">  C# - Advanced Retake Exam - 18 August 2021 </a>
 - <a href="https://github.com/kace123/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2026%20June%202021"> C# - Advanced Exam - 26 June 2021 </a>
 - <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2022%20Feb%202020"> C# - Advanced Exam - 22 Feb 2020 </a>
@@ -34,4 +35,3 @@
 - <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Retake%20Exam%20-%2016%20December%202020"> C# - Advanced Retake Exam - 16 December 2020 </a>
 - <a href ="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2025%20October%202020"> C# - Advanced Exam - 25 October 2020 </a>
 - <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Retake%20Exam%20-%2019%20August%202020"> C# - Advanced Retake Exam - 19 August 2020 </a>
-- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20Advanced/C%23%20Advanced%20-%20Exams/C%23%20-%20Advanced%20Exam%20-%2023%20October%202021"> C# - Advanced Exam - 23 October 2021 </a>
