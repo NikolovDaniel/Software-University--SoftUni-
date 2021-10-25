@@ -27,6 +27,23 @@ Daniel Nikolov
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
+C# Advanced - September 2021<br /> 
+14/09/2021 - 23/10/2021
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 25/10/2021</th>
+<th>
+<p><a title="C# Advanced" href="https://softuni.bg/certificates/details/114346/60bd2a28" target="_blank">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- Programming Fundamentals with C# -->
+
+<!-- Programming Fundamentals with C# -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
 Programming Fundamentals with C# - May 2021<br /> 
 17/05/2021 - 21/08/2021
 </th>
