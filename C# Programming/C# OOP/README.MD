@@ -8,3 +8,4 @@
 
 1. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Inheritance%20-%20Lab"> Inheritance - Lab </a>
 2. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Inheritance%20-%20Exercises"> Inheritance - Exercises </a>
+3. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Encapsulation%20-%20Lab"> Encapsulation - Lab</a>
