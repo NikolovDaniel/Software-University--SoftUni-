@@ -13,3 +13,4 @@
 5. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Interfaces%20and%20Abstractions%20-%20Lab"> Interfaces and Abstraction - Lab </a>
 6. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Interfaces%20and%20Abstractions%20-%20Exercises"> Intefaces and Abstraction - Exercises </a>
 7. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Polymorphism%20-%20Lab"> Polymorphism - Lab </a>
+8. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Polymorphism%20-%20Exercises"> Polymorphism - Exercises </a>
