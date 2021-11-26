@@ -15,3 +15,6 @@
 7. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Polymorphism%20-%20Lab"> Polymorphism - Lab </a>
 8. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Polymorphism%20-%20Exercises"> Polymorphism - Exercises </a>
 9. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Reflection%20-%20Lab"> Reflection - Lab </a>
+10. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Reflection%20-%20Exercises"> Reflection - Exercises </a>
+11. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Unit%20Testing%20-%20Lab"> Unit Testing - Lab </a>
+12. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Unit%20Testing%20-%20Exercises"> Unit Testing - Exercises </a>
