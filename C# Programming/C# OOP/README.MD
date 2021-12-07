@@ -18,3 +18,10 @@
 10. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Reflection%20-%20Exercises"> Reflection - Exercises </a>
 11. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Unit%20Testing%20-%20Lab"> Unit Testing - Lab </a>
 12. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exercises/Unit%20Testing%20-%20Exercises"> Unit Testing - Exercises </a>
+
+## Exams
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exams/C%23%20OOP%20Exam%20-%2016%20August%202020"> C# OOP Exam - 16 August 2020 </a>
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exams/C%23%20OOP%20Exam%20-%2022%20August%202020"> C# OOP Exam - 22 August 2020 </a>
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exams/C%23%20OOP%20Exam%20-%2012%20December%202020"> C# OOP Exam - 12 December 2020 </a>
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exams/C%23%20OOP%20Exam%20-%2019%20December%202020"> C# OOP Exam - 19 December 2020 </a>
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Programming/C%23%20OOP/C%23%20OOP%20-%20Exams/C%23%20OOP%20Exam%20-%2018%20April%202021"> C# OOP Exam - 18 April 2021 </a>
