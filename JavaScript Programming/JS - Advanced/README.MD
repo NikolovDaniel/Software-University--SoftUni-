@@ -6,3 +6,4 @@
 
 ## Exercises and Labs 
 1. <a href= "https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JS%20-%20Advanced/Syntax%2C%20Functions%20and%20Statements%20-%20Lab"> Syntax, Functions and Statements - Lab </a>
+2. <a href= "https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/JavaScript%20Programming/JS%20-%20Advanced/Syntax%2C%20Functions%20and%20Statements%20-%20Exercises"> Syntax, Functions and Statements - Exercises </a>
