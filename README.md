@@ -5,7 +5,7 @@
 <td align="center" width="33%"><img style="text-align: ce;" src="https://github.com/PhilShishov/Software-University/blob/master/Resources/SoftUni-Logo-Flat_square-blue-300x235.png" alt="" /></td>
 <td align="center" width="33%">
 <h1><a href="https://softuni.bg/">SoftUni</a></h1>
-<h2>C#</h2>
+<h2>C# / JavaScript</h2>
 <h2>ASP.NET</h2>
 </td>
 <td align="center" width="33%"></br>     
