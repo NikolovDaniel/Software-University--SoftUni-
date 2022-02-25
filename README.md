@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- JS Advanced -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Advanced - January 2022<br /> 
+11/01/2022 - 19/02/2022
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 25/02/2022</th>
+<th>
+<p><a title="JS Advanced" href="https://softuni.bg/certificates/details/126586/05bf3745" target="_blank">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Advanced -->
+
 <!-- C# OOP -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
