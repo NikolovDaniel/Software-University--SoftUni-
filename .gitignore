@@ -3,3 +3,4 @@ obj
 .vs
 Properties
 App.config
+.DS_Store
