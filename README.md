@@ -28,7 +28,7 @@ Daniel Nikolov
 <tbody>
 <tr><th align="center" width="50%">
 JS Applications - February 2022<br /> 
-11/01/2022 - 19/02/2022
+22/02/2022 - 11/04/2022
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/04/2022</th>
 <th>
