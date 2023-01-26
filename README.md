@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- JS Applications -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+JS Applications - February 2022<br /> 
+11/01/2022 - 19/02/2022
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 12/04/2022</th>
+<th>
+<p><a title="JS Applications" href="https://softuni.bg/certificates/details/131613/6fa1d6c2">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- JS Applications -->
+
 <!-- JS Advanced -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
