@@ -154,18 +154,18 @@ FROM
     GROUP BY Creators.LastName, Publishers.Name
     HAVING Publishers.Name = 'Stonemaier Games'
     ORDER BY AVG(Rating) DESC
-) AS [SubQuery]
+    ) AS [SubQuery]
 
 -- 11. Creator with Boardgames
 CREATE FUNCTION udf_CreatorWithBoardgames(@name NVARCHAR(30))
 RETURNS INT
 BEGIN
-RETURN (
-                    SELECT COUNT(*) FROM Creators
-                    JOIN CreatorsBoardgames ON CreatorsBoardgames.CreatorId = Creators.Id
-                    JOIN Boardgames ON Boardgames.Id = CreatorsBoardgames.BoardgameId
-                    WHERE Creators.FirstName = @name
-                 )
+  RETURN (
+            SELECT COUNT(*) FROM Creators
+            JOIN CreatorsBoardgames ON CreatorsBoardgames.CreatorId = Creators.Id
+            JOIN Boardgames ON Boardgames.Id = CreatorsBoardgames.BoardgameId
+            WHERE Creators.FirstName = @name
+         )
 END;
 
 -- 12. Search for Boardgame with Specific Category
