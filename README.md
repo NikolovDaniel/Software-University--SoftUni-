@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- MS SQL -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+MS SQL - January 2023 <br /> 
+22/02/2022 - 11/04/2022
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 20/02/2023</th>
+<th>
+<p><a title="JS Applications" href="https://softuni.bg/certificates/details/131613/6fa1d6c2">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- MS SQL -->
+
 <!-- JS Applications -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
