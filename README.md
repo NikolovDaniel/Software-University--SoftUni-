@@ -32,7 +32,7 @@ MS SQL - January 2023 <br />
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 20/02/2023</th>
 <th>
-<p><a title="MS SQL" href="https://softuni.bg/certificates/details/131613/6fa1d6c2">Certificate</a></p>
+<p><a title="MS SQL" href="https://softuni.bg/certificates/details/157924/cddddebe">Certificate</a></p>
 </th></tr>
 </tbody>
 </table>
