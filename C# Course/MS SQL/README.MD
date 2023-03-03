@@ -4,6 +4,7 @@
 
 
 ## Exercises and Labs
+1. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/MS%20SQL/MS%20SQL%20-%20Exercises/CRUD"> CRUD </a>
 
 ## Exams
 - <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/MS%20SQL/MS%20SQL%20-%20Exams/Databases%20MSSQL%20Server%20Exam%20-%2019%20Feb%202023"> Databases MSSQL Server Exam - 19 February 2023 </a>
