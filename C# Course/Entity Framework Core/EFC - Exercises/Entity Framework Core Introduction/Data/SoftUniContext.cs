@@ -28,7 +28,7 @@ namespace SoftUni.Data
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=localhost;Database=SoftUni;User Id=SA;Password=MyPass@word;Integrated Security=false;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("//Deleted");
             }
         }
 
