@@ -10,7 +10,4 @@
 4. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/LINQ" > LINQ </a> 
 
 
-[## Exams
-- <a href="" ></a> ](url)
-
 
