@@ -12,7 +12,7 @@ using ProductShop.Data;
 namespace ProductShop.Migrations
 {
     [DbContext(typeof(ProductShopContext))]
-    [Migration("20230325142853_InitialCreate")]
+    [Migration("20230325180221_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
