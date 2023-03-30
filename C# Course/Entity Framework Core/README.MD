@@ -10,3 +10,6 @@
 4. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/LINQ" > LINQ </a> 
 5. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/Advanced%20Querying" > Advanced Querying </a> 
 6. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/JSON%20Processing" > JSON Processing </a> 
+
+## Exams
+- <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exams/C%23%20DB%20Advanced%20Retake%20Exam%20-%2015%20August%202022"> C# - DB Advanced Retake Exam - 15 August 2022</a>
