@@ -10,6 +10,7 @@
 4. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/LINQ" > LINQ </a> 
 5. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/Advanced%20Querying" > Advanced Querying </a> 
 6. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/JSON%20Processing" > JSON Processing </a> 
+7. <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exercises/XML%20Processing" > XML Processing </a> 
 
 ## Exams
 - <a href="https://github.com/NikolovDaniel/Software-University--SoftUni-/tree/main/C%23%20Course/Entity%20Framework%20Core/EFC%20-%20Exams/C%23%20DB%20Advanced%20Exam%20-%2001%20April%202023"> C# DB Advanced Exam - 01 April 2023 (Main Exam)</a>
