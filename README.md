@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- Entity Framework Core -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+Entity Framework Core - February 2023 <br /> 
+14/02/2023 - 12/04/2023
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 03/04/2023</th>
+<th>
+<p><a title="Entity Framework Core" href="https://softuni.bg/certificates/details/164943/cdce3db9">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- Entity Framework Core -->
+
 <!-- MS SQL -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
