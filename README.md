@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- ASP.NET Fundamentals -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+ASP.NET Fundamentals <br /> 
+11/05/2023 - 17/06/2023
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 27/06/2023</th>
+<th>
+<p><a title="ASP.NET Fundamentals" href="https://softuni.bg/certificates/details/175366/02949b27">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- ASP.NET Fundamentals -->
+
 <!-- Entity Framework Core -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
