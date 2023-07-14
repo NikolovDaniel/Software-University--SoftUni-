@@ -27,7 +27,7 @@ Daniel Nikolov
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
 <tbody>
 <tr><th align="center" width="50%">
-ASP.NET Fundamentals <br /> 
+ASP.NET Fundamentals - May 2023 <br /> 
 11/05/2023 - 17/06/2023
 </th>
 <th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 27/06/2023</th>
