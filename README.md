@@ -22,6 +22,23 @@ Daniel Nikolov
 </table>
 <!-- Head End -->
 
+<!-- ASP.NET Advanced -->
+<hr />
+<table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
+<tbody>
+<tr><th align="center" width="50%">
+ASP.NET Advanced - June 2023 <br /> 
+21/06/2023 - 19/08/2023
+</th>
+<th width="40%">Grade: 6.00 (out of 6.00)<br /> Issue Date: 14/08/2023</th>
+<th>
+<p><a title="ASP.NET Advanced" href="https://softuni.bg/certificates/details/182197/93855bbe">Certificate</a></p>
+</th></tr>
+</tbody>
+</table>
+<hr />
+<!-- ASP.NET Advanced -->
+
 <!-- ASP.NET Fundamentals -->
 <hr />
 <table border="0" width="100%" cellspacing="1" cellpadding="3" align="center">
